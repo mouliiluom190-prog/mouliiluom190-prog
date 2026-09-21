@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Moulidharan
-Exploring Open Source
+Exploring Open Source<br>
 Data Analyst & Business Inteligence Learner
-and also the web application developer
+and also web application developer<br>
+Currently pursuing a Bachelor's degree
