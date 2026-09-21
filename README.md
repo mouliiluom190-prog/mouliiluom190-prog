@@ -1,3 +1,4 @@
 ## Hi there 👋 I'm Moulidharan
-Student 
 Exploring Open Source
+Data Analyst & Business Inteligence Learner
+and also the web application developer
